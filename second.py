@@ -1,3 +1,3 @@
 number = input("Type it number =")
 
-print("The is Number Information it is =", number)
+print("The is Number reported is =", number)

@@ -1,6 +1,6 @@
 value = float(input("type is value for hours = "))
 
-hours = float(input("type for hours"))
+hours = float(input("type for hours = "))
 
 def wage():
     result = value * hours
